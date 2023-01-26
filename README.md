@@ -1,2 +1,2 @@
-LOTTERY MANAGEMENT SYSTEM in PHP to choose lucky winner
+LOTTERY MANAGEMENT SYSTEM in PHP to choose lucky winner from lottery 
 
